@@ -72,13 +72,14 @@ This project is licensed under a **Creative Commons Attribution-NonCommercial 4.
 
 
 ## 🙌 Author
-**Kashif Maqbool**  
+**KASHIF MAQBOOL JOIYA**  
 🎓 Data Analyst & Data Scientist | Aspiring AI Engineer  
 💻 Passionate about Open Source, Data Science, Big Data, and AI Systems  
 
 🌐 Connect with me:  
 - [GitHub](https://github.com/KashifMaqbool)  
-- [LinkedIn](https://www.linkedin.com/in/kashif-maqbool-joiya-390747209/)  
+- [LinkedIn](https://www.linkedin.com/in/kashif-maqbool-joiya-390747209/)
+- [Email](km9924173@gmail.com)  
 
 
 
